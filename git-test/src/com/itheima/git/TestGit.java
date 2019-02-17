@@ -9,6 +9,9 @@ public class TestGit {
         System.out.println("版本111111");
     }
 
+    public void test2(){
+        System.out.println("版本33333");
+    }
     public void test3(){
         System.out.println("版本333333");
     }
